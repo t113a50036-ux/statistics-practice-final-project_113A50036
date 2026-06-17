@@ -1,0 +1,11 @@
+,Low,Medium,High
+Sample Size (N),3201,3816,5025
+Mean (Hours),6.671665105,6.736897275,6.926567164
+Std Dev,1.413099433,1.29742611,1.326024367
+Min (Hours),4,4,4
+25th Percentile,6,6,6
+Median (50th),7,7,7
+75th Percentile,8,8,8
+Max (Hours),10,10,10
+95% CI Lower Bound,6.670098792,6.735580166,6.925394106
+95% CI Upper Bound,6.673231417,6.738214383,6.927740223
