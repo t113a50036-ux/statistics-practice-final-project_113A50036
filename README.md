@@ -27,12 +27,12 @@ Does the frequency of weekly aerobic exercise have a statistically significant i
 ---
 
 ## Methodology
-* **Statistical Method**: Two-proportion z-test
+* **Statistical Method**: One-way ANOVA
 * **Significance Level**: 0.05
 * **Assumptions Considered**:
-    1. Independent observations between groups.
-    2. Appropriate response variable (Binary/Categorical).
-    3. Large enough sample size for the z-test.
+    1. **Independence**:Data collected via independent random sampling from the nationwide YRBS_2007 system.
+    2. **Normality**:With a massive sample size ($N = 12,042$), the Central Limit Theorem guarantees that the normality assumption for ANOVA is fully satisfied..
+    3. **Homogeneity of Variance**: Checked via group distribution variances prior to running the inferential models.
         
 
 ---
