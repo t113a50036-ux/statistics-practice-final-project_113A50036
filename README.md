@@ -18,11 +18,11 @@ Does the frequency of weekly aerobic exercise have a statistically significant i
 
 ## Variables and Definitions
 * **Group Variable**: `AerobicExercise` 
-   **Group 1**: Engages in aerobic exercise 0–1 days per week (Original Code 1,2)
-   **Group 2**: Engages in aerobic exercise 2–4 days per week (Original Code 3,4,5)
-   **Group 3**: Engages in aerobic exercise 5–7 days per week (Original Code 6,7,8)
- **Response Variable**: `Sleep`
-   Represents the actual daily sleep duration, expressed as integer values ranging from 4.0 to 10.0 hours(Original Code 1,2,3,4,5,6,7)
+  * **Group 1**: Engages in aerobic exercise 0–1 days per week (Original Code 1,2)
+  * **Group 2**: Engages in aerobic exercise 2–4 days per week (Original Code 3,4,5)
+  * **Group 3**: Engages in aerobic exercise 5–7 days per week (Original Code 6,7,8)
+* **Response Variable**: `Sleep`
+  * Represents the actual daily sleep duration, expressed as integer values ranging from 4.0 to 10.0 hours(Original Code 1,2,3,4,5,6,7)
 
 ---
 
