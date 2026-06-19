@@ -1,30 +1,28 @@
 # Final-Project_113A50036
 
 ## Project Repository
-https://github.com/t113a50036-ux/statistics-practice-cycle3-group2
+https://github.com/t113a50036-ux/statistics-practice-final-project_113A50036
 
 ## Presentation Video
-https://drive.google.com/file/d/1u6xUp8odpDos-jYxNLHEVuJzCgugs81t/view?usp=drivesdk
+
 
 ## Members:
 | Name | Student ID |
 | :--- | :--- |
-| 吳婕綾 | 113370205 |
 | 賴映彤 | 113A50036 |
 
 ## Research Question
-* **Selected Question**: Question 1 
-* **Research Question**: Is the proportion of current cigarette use different between male and female students?
+Does the frequency of weekly aerobic exercise have a statistically significant impact on the daily sleep hours of high school students?
 
 ---
 
 ## Variables and Definitions
-* **Group Variable**: `WhatIsYourSex` 
-   **Group 1**: Male students (Original Code 1)
-   **Group 2**: Female students (Original Code 2)
- **Response Variable**: `CurrentCigaretteUse`
-   **Success (1)**: Currently uses cigarettes (Original Codes 2-7)
-   **Failure (0)**: Does not currently use cigarettes (Original Code 1)
+* **Group Variable**: `AerobicExercise` 
+   **Group 1**: Engages in aerobic exercise 0–1 days per week (Original Code 1,2)
+   **Group 2**: Engages in aerobic exercise 2–4 days per week (Original Code 3,4,5)
+   **Group 3**: Engages in aerobic exercise 5–7 days per week (Original Code 6,7,8)
+ **Response Variable**: `Sleep`
+   Represents the actual daily sleep duration, expressed as integer values ranging from 4.0 to 10.0 hours(Original Code 1,2,3,4,5,6,7)
 
 ---
 
