@@ -15,7 +15,7 @@ https://github.com/t113a50036-ux/statistics-practice-final-project_113A50036
 This project utilizes the 2007 Youth Risk Behavior Survey (YRBS) dataset to analyze health-related behaviors and physical metrics among US high school students. The primary analysis focuses on daily sleep duration and weekly aerobic exercise frequency to determine whether intensive physical activity significantly impacts adolescent rest patterns. Evaluated through a comprehensive nationwide sample ($N = 12,042$) and inspired by personal, real-world experience, this study investigates whether the heavy physical demands of commitments—such as dance clubs or school sports teams—compromise or promote overall sleep health under the structural constraints of rigid academic schedules.
 
 ## Research Question
-Does the frequency of weekly aerobic exercise have a statistically significant impact on the daily sleep hours of high school students?
+Does Weekly Aerobic Exercise Frequency Significantly Affect Daily Sleep Hours in High School Students?
 
 ---
 
