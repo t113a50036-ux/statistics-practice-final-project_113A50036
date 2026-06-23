@@ -4,7 +4,7 @@
 https://github.com/t113a50036-ux/statistics-practice-final-project_113A50036
 
 ## Presentation Video
-
+https://youtu.be/WDqhUruRBAk?si=CTSZlqL7ruMrEcBX
 
 ## Members:
 | Name | Student ID |
